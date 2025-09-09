@@ -20,10 +20,10 @@ pinout:
   ui[1]: "IN1"
   ui[2]: "IN2"
   ui[3]: "IN3"
-  ui[4]: "IN4"
-  ui[5]: "IN5"
-  ui[6]: "IN6"
-  ui[7]: "IN7"
+  ui[4]: ""
+  ui[5]: ""
+  ui[6]: ""
+  ui[7]: ""
 
   # Outputs
   uo[0]: "OUT0"
@@ -33,7 +33,7 @@ pinout:
   uo[4]: "OUT4"
   uo[5]: "OUT5"
   uo[6]: "OUT6"
-  uo[7]: "OUT7"
+  uo[7]: ""
 
   # Bidirectional pins
   uio[0]: ""
